@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Test') {
             steps {
-                sh 'mvn clean -f ${params.Routine}'
+                sh "mvn clean -f ${params.Routine}"
             }
         }
     }
