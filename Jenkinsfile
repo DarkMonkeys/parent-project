@@ -5,6 +5,7 @@ pipeline {
             steps {
                 sh "mvn clean -f ${params.Routine}"
                 sh "mvn install -f ${params.Routine}"
+                sh "mvn deploy"
             }
         }
     }
