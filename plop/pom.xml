@@ -9,7 +9,7 @@
 
   <groupId>org.baeldung</groupId>
   <artifactId>plop</artifactId>
-  <version>1.0.11-SNAPSHOT</version>
+  <version>1.0.11</version>
 
   <name>plop</name>
   <!-- FIXME change it to the project's website -->
@@ -79,7 +79,7 @@
     <developerConnection>
       scm:git:https://github.com/DarkMonkeys/parent-project.git
     </developerConnection>
-    <tag>plop-1.0.9</tag>
+    <tag>plop-1.0.11</tag>
   </scm>
 
   <distributionManagement>
