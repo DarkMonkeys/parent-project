@@ -1,1 +1,1 @@
-FROM maven
+FROM maventest
