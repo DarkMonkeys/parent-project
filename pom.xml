@@ -76,7 +76,7 @@
 
     <module>core/pom1.xml</module>
     <module>core/pom.xml</module>
-    <module>service</module>
+    <module>plop</module>
     <module>webapp</module>
   </modules>
 </project>
