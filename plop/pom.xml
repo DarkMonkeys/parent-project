@@ -9,7 +9,7 @@
 
   <groupId>org.baeldung</groupId>
   <artifactId>plop</artifactId>
-  <version>1.0.11</version>
+  <version>1.0.11-SNAPSHOT</version>
 
   <name>plop</name>
   <!-- FIXME change it to the project's website -->
